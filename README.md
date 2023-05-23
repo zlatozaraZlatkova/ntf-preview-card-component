@@ -18,11 +18,7 @@ Thanks for checking out this front-end coding challenge.
 - [Author](#author)
 
 ## Overview
-My first project.
-
-### Screenshot
-Frontend Mentor QR code desktop.png
-Frontend Mentor QR code mobile.png
+This HTML & CSS challenge is the perfect small project to play around with.
 
 ### Links
 
